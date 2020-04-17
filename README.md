@@ -31,6 +31,8 @@ Libraries/ Resources: Lazy foo tutorial/Stack Overflow/
 Sound effects: Lazy foo tutorial
 Images and sprites: google images
 
+Get a glimpse of the game by watching the Crappy_birds_glimpse_video.
+
 
 
 
